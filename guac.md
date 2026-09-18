@@ -4,4 +4,4 @@
 * lime
 * salt
 ## Instructions
-mash up ovocadoes
+* Add avacados to bowl
